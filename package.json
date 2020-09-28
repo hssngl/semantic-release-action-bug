@@ -25,11 +25,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/hssngl/semantic-release-action-bug"
-  },
-  "release": {
-    "branches": [
-      "master",
-      "next"
-    ]
   }
 }
