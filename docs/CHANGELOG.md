@@ -1,3 +1,16 @@
+## [1.9.1](https://github.com/hssngl/semantic-release-action-bug/compare/v1.9.0...v1.9.1) (2020-09-29)
+
+
+### Bug Fixes
+
+* bug fix ([ef42ae8](https://github.com/hssngl/semantic-release-action-bug/commit/ef42ae8b813eca7fbb55a4d49dab9b47dcf6fb80))
+* readd workflow options ([7b96b09](https://github.com/hssngl/semantic-release-action-bug/commit/7b96b09cb6908c008f7d67a4ed2450de18bcd20c))
+
+
+### Reverts
+
+* Revert "remove release config" ([a136a3b](https://github.com/hssngl/semantic-release-action-bug/commit/a136a3b83f3e4ac665a2eddf982ba45e4832a41e))
+
 # [1.8.0](https://github.com/hssngl/semantic-release-action-bug/compare/v1.7.0...v1.8.0) (2020-09-29)
 
 
