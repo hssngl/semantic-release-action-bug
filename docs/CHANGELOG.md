@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/hssngl/semantic-release-action-bug/compare/v1.10.0...v1.11.0) (2020-09-29)
+
+
+### Features
+
+* dsfsd ([e67804a](https://github.com/hssngl/semantic-release-action-bug/commit/e67804a542202148600518d2e89a61df4737c6f2))
+
 # [1.10.0](https://github.com/hssngl/semantic-release-action-bug/compare/v1.9.3...v1.10.0) (2020-09-29)
 
 
