@@ -1,3 +1,10 @@
+## [1.9.3](https://github.com/hssngl/semantic-release-action-bug/compare/v1.9.2...v1.9.3) (2020-09-29)
+
+
+### Bug Fixes
+
+* private to false ([b172ed9](https://github.com/hssngl/semantic-release-action-bug/commit/b172ed999cb5f74edb7051bd2be3cbf558f45875))
+
 ## [1.9.2](https://github.com/hssngl/semantic-release-action-bug/compare/v1.9.1...v1.9.2) (2020-09-29)
 
 
