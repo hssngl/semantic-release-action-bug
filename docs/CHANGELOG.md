@@ -1,3 +1,15 @@
+# [1.7.0](https://github.com/hssngl/semantic-release-action-bug/compare/v1.6.0...v1.7.0) (2020-09-29)
+
+
+### Bug Fixes
+
+* new fix ([5b53343](https://github.com/hssngl/semantic-release-action-bug/commit/5b53343648b2beb309f474defce9cf00b37b70be))
+
+
+### Features
+
+* new feat ([3f00cf1](https://github.com/hssngl/semantic-release-action-bug/commit/3f00cf1f945cdafc0a647f9ba9002904c42e601e))
+
 # [1.6.0](https://github.com/hssngl/semantic-release-action-bug/compare/v1.5.0...v1.6.0) (2020-09-29)
 
 
