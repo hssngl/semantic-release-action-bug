@@ -4,7 +4,7 @@
   "version": "0.0.0-development",
   "main": "src/index.js",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "sideEffects": false,
   "scripts": {
     "start": "npx webpack --config webpack.config.js --watch",
