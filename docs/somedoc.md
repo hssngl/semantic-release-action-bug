@@ -1,2 +1,2 @@
 somedoc
-a new change
+a new change 2
