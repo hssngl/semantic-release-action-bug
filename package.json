@@ -1,7 +1,8 @@
 {
-  "name": "CoCreate-dnd.js",
+  "name": "cocreate-dnd",
+  "author": "hossein alipour",
   "description": "a seamless multi-iframe and nested-iframe drag and drop",
-  "version": "0.0.0-development",
+  "version": "0.2.1",
   "main": "src/index.js",
   "license": "MIT",
   "private": false,
