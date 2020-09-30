@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/hssngl/semantic-release-action-bug/compare/v1.11.0...v1.12.0) (2020-09-30)
+
+
+### Features
+
+* new feeature ([1b47329](https://github.com/hssngl/semantic-release-action-bug/commit/1b47329a853c49a36478692779605eb01342cb5d))
+
 # [1.11.0](https://github.com/hssngl/semantic-release-action-bug/compare/v1.10.0...v1.11.0) (2020-09-29)
 
 
